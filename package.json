@@ -1,0 +1,10 @@
+{
+  "name": "new-site",
+  "version": "0.1.0",
+  "description": "A blank canvas",
+  "author": "openmanus_dev_user",
+  "private": true,
+  "openmanus": {
+    "siteId": "s0ym29eJbYgxaENm9h4e"
+  }
+}
